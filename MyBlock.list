@@ -1,6 +1,9 @@
 # My Block
 DOMAIN-SUFFIX,adobess.com
 DOMAIN-SUFFIX,adobe.io
+DOMAIN-SUFFIX,adobestats.io
+DOMAIN-SUFFIX,adobelogin.com
+# DOMAIN-KEYWORD,adobe
 # DOMAIN,platform-cs.adobe.io
 # DOMAIN,cc-api-data.adobe.io
 # DOMAIN,adobesearch.adobe.io
