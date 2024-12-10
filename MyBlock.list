@@ -1,3 +1,11 @@
 # My Block
 DOMAIN-SUFFIX,adobess.com
 DOMAIN-SUFFIX,adobe.io
+# DOMAIN,platform-cs.adobe.io
+# DOMAIN,cc-api-data.adobe.io
+# DOMAIN,adobesearch.adobe.io
+# DOMAIN,cchome.adobe.io
+# DOMAIN,p13n.adobe.io
+# DOMAIN,notify.adobe.io
+# DOMAIN,prod.adobeccstatic.com
+# DOMAIN,ss-prod-ew1-ns.aws.adobess.com
