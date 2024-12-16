@@ -82,10 +82,10 @@ dns:
      - https://doh.pub/dns-query
      - https://doh.360.cn/dns-query # 360 DoH DNS
   fallback:
-     # - 8.8.8.8 # 谷歌DNS
-     # - 1.1.1.1 # Cloudflare DNS
+     - 8.8.8.8 # 谷歌DNS
+     - 1.1.1.1 # Cloudflare DNS
      # - tls://1.0.0.1:853
-     - tls://1.1.1.1:853
+     # - tls://1.1.1.1:853
      - tls://dns.google:853
      - https://cloudflare-dns.com/dns-query
      - https://dns.google/dns-query
