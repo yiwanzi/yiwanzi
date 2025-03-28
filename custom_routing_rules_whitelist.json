@@ -1,5 +1,12 @@
 [
   {
+    "remarks": "绕过bittorrent",
+    "outboundTag": "direct",
+    "protocol": [
+      "bittorrent"
+    ]
+  },
+  {
     "remarks": "Google cn",
     "outboundTag": "proxy",
     "domain": [
@@ -53,7 +60,9 @@
       "geosite:cn",
       "geosite:geolocation-cn",
       "geosite:china-list",
-      "domain:dgjapp.com"
+      "domain:dgjapp.com",
+      "domain:xf-yun.com",
+      "domain:openspeech.cn"
     ]
   },
   {
